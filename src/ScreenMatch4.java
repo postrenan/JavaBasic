@@ -1,4 +1,4 @@
-public class Atv2 {
+public class ScreenMatch4 {
     public static void main(String[] args) {
         int anoDeLancamento = 2012;
         boolean incluidoNoPlano = true;

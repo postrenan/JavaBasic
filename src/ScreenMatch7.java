@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Atv5 {
+public class ScreenMatch7 {
     public static void main(String[] args) {
         Scanner leitura = new Scanner(System.in);
         double mediaAvaliacao = 0;
